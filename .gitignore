@@ -1,0 +1,38 @@
+# System generated files
+*.swp
+*.log
+*.sqlite3
+*.db
+
+# Dependency installation directory
+/bin/
+/vendor/
+
+# Asset pipeline output folder
+/public/assets/
+
+# Environment folders
+/.bundle/
+/.sass-cache/
+
+# Local configuration files
+/config/database.yml
+/config/application.yml
+
+# Environment file (if using Figaro gem)
+/config/application.yml
+
+# Cache folder
+/tmp/
+
+# IDE or text editor generated folders and files
+/.idea/
+/.vscode/
+/.project
+/.settings/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
