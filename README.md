@@ -1,0 +1,2 @@
+# friends
+Ruby project tutorial
